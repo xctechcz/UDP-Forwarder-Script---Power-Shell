@@ -35,4 +35,3 @@ License
 
 This project is available under the GPL-3.0 license. If desired, include a link to the specific license here.
 
-This description now includes the reason for the script’s creation, providing context for its use and importance.
